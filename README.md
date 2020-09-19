@@ -2,6 +2,13 @@
 
 **Background**
 ---
+Given the upcoming U.S general election has become a recent hot topic amongst my friends, I am keen to understand the public's opinion on their preference of candidate for the next general election. 
+
+FiveThirthyEight's model simulations seem to be credible and useful for helping on my data analysis for the following key topics:
+- Likelihood of all possible outcomes for 2020 U.S general election
+- Which states have voters that provide high influence on determining the upcoming election outcome?
+- Which states of voters are more favourable towards Donald Trump vs Joe Biden for the past few months?
+- Does the current U.S economy performance reduce the chances of Donald Trump winning the next general election?
 
 **Code and Resources Used**
 ---
