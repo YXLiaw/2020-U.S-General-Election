@@ -20,6 +20,7 @@ After importing the data from csv to data frames, I needed to clean up the data 
 
 **EDA**
 ---
+### Probability distribution of Electoral College Vote Outcomes
 ![Prob  distribution](https://user-images.githubusercontent.com/34255556/93668271-ea023e80-fabd-11ea-8c4d-2a3ac4879f6e.png)<br/>
 From the shape of both probability distributions, Joe Biden seems to have higher chance to win majority of electoral college votes.
 
