@@ -1,4 +1,4 @@
-# 2020-U.S-General-Election
+# 2020 U.S General Election : Project Overview
 
 **Background**
 ---
