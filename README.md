@@ -24,12 +24,16 @@ After importing the data from csv to data frames, I needed to clean up the data 
 ![Prob  distribution](https://user-images.githubusercontent.com/34255556/93668271-ea023e80-fabd-11ea-8c4d-2a3ac4879f6e.png)<br/>
 From the shape of both probability distributions, Joe Biden seems to have higher chance to win majority of electoral college votes.
 
+### Likelihood of Possible Election Outcomes
 ![Likelihood of outcomes](https://user-images.githubusercontent.com/34255556/93668240-cdfe9d00-fabd-11ea-9974-524796456846.png)<br/>
 
+### States that may deliver decisive vote in Electoral College votes
 ![Tipping](https://user-images.githubusercontent.com/34255556/93668083-ef12be00-fabc-11ea-9a7d-2d0fb67676e7.PNG)<br/>
 
+### Voting Power Index for different states in U.S
 ![Voting Power Index](https://user-images.githubusercontent.com/34255556/93668084-f0dc8180-fabc-11ea-91ce-be468cd88071.PNG)<br/>
 
+### Improvement in popularity margins
 ![Margin difference](https://user-images.githubusercontent.com/34255556/93668168-80823000-fabd-11ea-96fb-66a4ebad5268.PNG)<br/>
 
 **Usage**
