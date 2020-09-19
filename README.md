@@ -1,4 +1,4 @@
-# 2020 U.S General Election : Project Overview
+# 2020 U.S General Election : Project Overview (EDA focus)
 
 **Background**
 ---
