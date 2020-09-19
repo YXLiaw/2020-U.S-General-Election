@@ -20,15 +20,16 @@ After importing the data from csv to data frames, I needed to clean up the data 
 
 **EDA**
 ---
-![Margin for Biden](https://user-images.githubusercontent.com/34255556/93668074-d99d9400-fabc-11ea-90a4-fd47595df2d4.png)<br/>
-![Margin for Trump](https://user-images.githubusercontent.com/34255556/93668075-dc988480-fabc-11ea-999e-b9a22ec6984c.png)<br/>
-![Tipping](https://user-images.githubusercontent.com/34255556/93668083-ef12be00-fabc-11ea-9a7d-2d0fb67676e7.PNG)<br/>
-![Voting Power Index](https://user-images.githubusercontent.com/34255556/93668084-f0dc8180-fabc-11ea-91ce-be468cd88071.PNG)<br/>
-![Margin difference](https://user-images.githubusercontent.com/34255556/93668168-80823000-fabd-11ea-96fb-66a4ebad5268.PNG)<br/>
-![Likelihood of outcomes](https://user-images.githubusercontent.com/34255556/93668240-cdfe9d00-fabd-11ea-9974-524796456846.png)<br/>
 ![Prob  distribution](https://user-images.githubusercontent.com/34255556/93668271-ea023e80-fabd-11ea-8c4d-2a3ac4879f6e.png)<br/>
+From the shape of both probability distributions, Joe Biden seems to have higher chance to win majority of electoral college votes.
 
+![Likelihood of outcomes](https://user-images.githubusercontent.com/34255556/93668240-cdfe9d00-fabd-11ea-9974-524796456846.png)<br/>
 
+![Tipping](https://user-images.githubusercontent.com/34255556/93668083-ef12be00-fabc-11ea-9a7d-2d0fb67676e7.PNG)<br/>
+
+![Voting Power Index](https://user-images.githubusercontent.com/34255556/93668084-f0dc8180-fabc-11ea-91ce-be468cd88071.PNG)<br/>
+
+![Margin difference](https://user-images.githubusercontent.com/34255556/93668168-80823000-fabd-11ea-96fb-66a4ebad5268.PNG)<br/>
 
 **Usage**
 ---
