@@ -22,11 +22,11 @@ After importing the data from csv to data frames, I needed to clean up the data 
 ---
 ### Probability distribution of Electoral College Vote Outcomes
 ![Prob  distribution](https://user-images.githubusercontent.com/34255556/93668271-ea023e80-fabd-11ea-8c4d-2a3ac4879f6e.png)<br/>
-From the shape of both probability distributions, Joe Biden seems to have higher chance to win majority of electoral college votes.
+Joe Biden seems to have higher chance to win majority of electoral college votes, compared to Donald Trump (413 vs 125)
 
 ### Likelihood of Possible Election Outcomes
 ![Likelihood of outcomes](https://user-images.githubusercontent.com/34255556/93668240-cdfe9d00-fabd-11ea-9974-524796456846.png)<br/>
-The figure above shows that Joe Biden is very highly likely to win both popularity and electoral college vote by more than 80% of probability.
+Joe Biden is very highly likely to win both popularity and electoral college majority by more than 80% of probability, while Donald Trump is predicted to have less than 20% chance of winning both popularity and electoral college majority.
 
 ### States that may deliver decisive vote in Electoral College votes
 ![Tipping](https://user-images.githubusercontent.com/34255556/93668083-ef12be00-fabc-11ea-9a7d-2d0fb67676e7.PNG)<br/>
