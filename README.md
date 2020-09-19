@@ -2,7 +2,7 @@
 
 **Background**
 ---
-Given the upcoming U.S general election has become a recent hot topic amongst my friends, I am keen to understand the public's opinion on their preference of candidate for the next general election. 
+Given the upcoming U.S general election has become a recent hot topic amongst my friends and relatives living in U.S, I am keen to understand the public's opinion on their preference of candidate for the next general election. 
 
 FiveThirthyEight's model simulations seem to be credible and useful for helping on my data analysis for the following key topics:
 - Likelihood of all possible outcomes for 2020 U.S general election
