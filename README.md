@@ -5,6 +5,11 @@
 
 **Code and Resources Used**
 ---
+**Python Version** : 3.7
+**Packages** : pandas, matplotlib, numpy, seaborn, json, warnings, folium
+**Dataset source** : FiveThirthyEight - https://github.com/fivethirtyeight/data/tree/master/election-forecasts-2020
+**U.S states json file** : https://github.com/python-visualization/folium/tree/master/examples/data
+**choropleth map reference** : https://python-graph-gallery.com/292-choropleth-map-with-folium/
 
 **Data Cleaning**
 ---
@@ -14,7 +19,7 @@
 
 **Usage**
 ---
-This project is best viewed in a notebook viewer, which can be accessed here. In this notebook, you will find a walk through of the work done and the respective code.
+This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/YXLiaw/2020-U.S-General-Election/blob/master/2020%20U.S%20General%20Election.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
 
 **Legality**
 ---
