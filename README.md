@@ -26,15 +26,19 @@ From the shape of both probability distributions, Joe Biden seems to have higher
 
 ### Likelihood of Possible Election Outcomes
 ![Likelihood of outcomes](https://user-images.githubusercontent.com/34255556/93668240-cdfe9d00-fabd-11ea-9974-524796456846.png)<br/>
+The figure above shows that Joe Biden is very highly likely to win both popularity and electoral college vote by more than 80% of probability.
 
 ### States that may deliver decisive vote in Electoral College votes
 ![Tipping](https://user-images.githubusercontent.com/34255556/93668083-ef12be00-fabc-11ea-9a7d-2d0fb67676e7.PNG)<br/>
+Pennsylvania has the highest probability of being the state that determines the outcome of electoral college votes (~32%), which is significantly greater than Florida having the 2nd highest probability at around 14%.
 
 ### Voting Power Index for different states in U.S
 ![Voting Power Index](https://user-images.githubusercontent.com/34255556/93668084-f0dc8180-fabc-11ea-91ce-be468cd88071.PNG)<br/>
+Voters in Pennsylvania also has the highest voting power index (7.2), followed by Wisconsin (4.8), Nevada (4.5) and New Hampshire (4.5).
 
 ### Improvement in popularity margins
 ![Margin difference](https://user-images.githubusercontent.com/34255556/93668168-80823000-fabd-11ea-96fb-66a4ebad5268.PNG)<br/>
+Joe Biden gains popularity amongst people in Arizona and Minnesota by more than 10% of improvement, compared to Donald Trump who only manages to gain popularity amongst people living in Indiana, Georgia and Missouri between 3 to 6% of improvement. 
 
 **Usage**
 ---
