@@ -42,7 +42,7 @@ Joe Biden gains popularity amongst people in Arizona and Minnesota by more than 
 
 **Usage**
 ---
-This project is best viewed in a notebook render viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/YXLiaw/2020-U.S-General-Election/blob/master/2020%20U.S%20General%20Election.ipynb). In this notebook, you will find a walkthrough of the work and the respective code with comments on observations from figures.
+This project is best viewed in a notebook render viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/YXLiaw/2020-U.S-General-Election/blob/master/2020%20U.S%20General%20Election.ipynb?flush_cache=true). In this notebook, you will find a walkthrough of the work and the respective code with comments on observations from figures.
 
 **Legality**
 ---
